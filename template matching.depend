@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1546197664 source:c:\users\user\desktop\proiectpp\proiectpp\template matching\template matching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1546514382 source:c:\users\user\desktop\proiectpp\proiectpp\template matching\template_matching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
